@@ -8,13 +8,13 @@ Components: main
 Description: MASHLE Termux Repository
 
 MD5Sum:
- fac986c714ad04ddf967df912ce89dc8              494 dists/stable/main/binary-all/Packages
- 2c41f05eea2179a2b6a22812b8b8808e              385 dists/stable/main/binary-all/Packages.gz
+ fac986c714ad04ddf967df912ce89dc8              494 main/binary-all/Packages
+ 2c41f05eea2179a2b6a22812b8b8808e              385 main/binary-all/Packages.gz
 
 SHA1:
- 0bf62ce2b5a5a28bf3a28ff78837968491a4d4e2              494 dists/stable/main/binary-all/Packages
- 3e1fc2aa91be616934b47d8201e3a5a05ba21598              385 dists/stable/main/binary-all/Packages.gz
+ 0bf62ce2b5a5a28bf3a28ff78837968491a4d4e2              494 main/binary-all/Packages
+ 3e1fc2aa91be616934b47d8201e3a5a05ba21598              385 main/binary-all/Packages.gz
 
 SHA256:
- 3a68e5fcd07f589c62a5f6f29259d23091fc90466a239977dd6c018c830f98f4              494 dists/stable/main/binary-all/Packages
- c4ce3712404217ca8f0a55dbb8ecc4279073796c72d6bd5228c1f996d2037b60              385 dists/stable/main/binary-all/Packages.gz
+ 3a68e5fcd07f589c62a5f6f29259d23091fc90466a239977dd6c018c830f98f4              494 main/binary-all/Packages
+ c4ce3712404217ca8f0a55dbb8ecc4279073796c72d6bd5228c1f996d2037b60              385 main/binary-all/Packages.gz
