@@ -1,0 +1,15 @@
+Package: mashle
+Version: 1.0.1
+Architecture: all
+Maintainer: MASHLE
+Depends: python, python-pillow, nmap, cmatrix, exiftool, tshark, yara
+Filename: pool/main/m/mashle/mashle_1.0.1_all.deb
+Size: 18088
+MD5sum: 1f4430e7ab5980aefd60100a420b3fd4
+SHA1: e30b09e7a32ff097729245f872cde0d47c7069f6
+SHA256: c3e50e35cbc1f7b7b9b7d9643aab5d82991845e9cbc8610ff33d570cf3500f7c
+Section: utils
+Priority: optional
+Description: MASHLE local control panel
+ Flask-based local modular analysis interface for Termux.
+
